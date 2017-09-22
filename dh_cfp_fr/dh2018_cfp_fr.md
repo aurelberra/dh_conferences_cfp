@@ -16,16 +16,15 @@ Ateliers et séances d’initiation : 15 janvier 2018, 23 h 59 GMT-6 (heure de
 
 ## I. INFORMATIONS GÉNÉRALES
 
-L’Alliance of Digital Humanities Organizations (ADHO) lance un appel à propositions pour son colloque annuel, sur tout aspect des humanités numériques. Le thème du colloque de 2018 est « Bridges/Ponts », et nous vous encourageons tout particulièrement à soumettre des contributions qui abordent ce thème ou sont centrées sur la mise en œuvre des savoirs (*knowledge mobilization*), la collaboration entre chercheurs et communautés, les implications épistémologiques des études sur le Nord et le Sud, la globalisation et les fractures numériques, les recherches tournées vers le public (*public-facing scholarship*) et enracinées dans les communautés, la traduction, les écologies numériques, la culture *hacker* et les cultures numériques indigènes.
-
-<!-- le libre accès aux programmes, aux logiciels, à la recherche et à ses résultats, ainsi que les aspects de la recherche et de la publication en humanités numériques liés aux technologies de l’accessibilité. Le colloque se tiendra officiellement en deux langues, le français et l’anglais, puisque le Canada est un pays bilingue : nous encourageons donc particulièrement les propositions faites dans ces deux langues, mais acceptons aussi les propositions faites dans les autres langues officielles d’ADHO (allemand, italien, espagnol). -->
-
-
-Les sujets possibles sont notamment, mais non exclusivement :
+L’Alliance of Digital Humanities Organizations (ADHO) lance un appel à propositions pour son colloque annuel, sur tout aspect des humanités numériques. Le thème du colloque de 2018 est « Bridges/Ponts », et nous vous encourageons tout particulièrement à soumettre des contributions qui abordent ce thème ou sont centrées sur la mise en œuvre des savoirs (*knowledge mobilization*), la collaboration entre chercheurs et communautés, les implications épistémologiques des études sur le Nord et le Sud, la globalisation et les fractures numériques, les recherches tournées vers le public (*public-facing scholarship*) et enracinées dans les communautés, la traduction, les écologies numériques, la culture *hacker* et les cultures numériques indigènes. Les sujets possibles sont notamment, mais non exclusivement :
 
 * les recherches en sciences humaines rendues possibles par les médias numériques, l’intelligence artificielle ou le *machine learning*, les *software studies*, les systèmes d'information géographique et de cartographie, ou le *design* et la modélisation de l’information ;
-* les aspects sociaux et institutionnels des humanités numériques, ainsi que leur rapport à la mondialisation, au multilinguisme et au multiculturalisme ;
-* les applications de l’informatique à l’étude de la littérature, à la linguistique, aux *cultural studies* et à l’histoire, domaines où l’on inclura les *public humanities* et les aspects interdisciplinaires de la recherche contemporaine ;
+* les aspects sociaux et institutionnels des humanités numériques, ainsi que leur rapport à la mondialisation, au multilinguisme et au multiculturalisme, dont les féminismes numériques, les études indigènes numériques, les études culturelles et ethniques numériques, les études noires numériques, les études *queer* numériques ;
+* les aspects théoriques, épistémologiques, historiques des pratiques et des théories des humanités numériques, ainsi que tout aspect ou toute interprétation apparentés ;
+* les applications de l’informatique à l’étude de la littérature, à la linguistique, aux *cultural studies*, à l'archéologie et à l’histoire, domaines où l’on inclura les *public humanities* et les aspects interdisciplinaires de la recherche contemporaine ;
+
+<!-- à poursuivre… -->
+
 * la stylistique et la philologie quantitatives, y compris les études liées aux *big data* et à la fouille de texte ;
 * les arts numériques, l’architecture, la musique, le cinéma, le théâtre, les nouveaux médias, les jeux vidéo et la littérature électronique ;
 * les technologies émergentes telles que le *physical computing*, les ordinateurs monocartes, le *minimal computing*, les technologies portables (*wearable devices*), en tant que ces technologies sont appliquées à la recherche en sciences humaines ;
