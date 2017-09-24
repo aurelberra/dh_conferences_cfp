@@ -66,6 +66,8 @@ March, 2018.
 
 <https://www.conftool.pro/dh2018/>
 
+To facilitate the production of the conference proceedings, authors of accepted papers will be asked to submit final approved versions of their abstracts via the DHConvalidator, available through ConfTool, which creates a TEI text base of conference abstracts for further processing.
+
 When submitting proposals, previous Digital Humanities conference
 participants and reviewers should use their existing accounts rather
 than setting up new ones. If you have forgotten your username or
@@ -212,13 +214,7 @@ consideration by the Program Committee.
 
 ## III: ADHO CONFERENCE CODE OF CONDUCT
 
-The Alliance of Digital Humanities Organizations (ADHO) is dedicated to
-creating a safe, respectful, and collegial conference environment for
-the benefit of everyone who attends and for the advancement of research
-and scholarship in fields supported by our constituent organizations.
-The ADHO Digital Humanities conference Code of Conduct is available at
-<http://adho.org/administration/conference-coordinating-program-committee/adho-conference-code-conduct>.
-All people submitting proposals to DH2018 should observe and uphold it.
+The Alliance of Digital Humanities Organizations (ADHO) is dedicated to creating a safe, respectful, and collegial conference environment for the benefit of everyone who attends and for the advancement of research and scholarship in fields supported by our constituent organizations. The ADHO Digital Humanities conference Code of Conduct is available at http://adho.org/administration/conference-coordinating-program-committee/adho-conference-code-conduct. All people submitting proposals to DH2018 should observe and uphold it.
 
 ## IV: VENUE AND THEME
 
