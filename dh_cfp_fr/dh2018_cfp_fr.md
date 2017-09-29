@@ -40,13 +40,13 @@ Les présentations peuvent prendre les formes suivantes :
 * tables rondes, ou *panels*, comprenant plusieurs présentations (résumés de 500 mots + présentation générale de 500 mots) ;
 * ateliers (*workshops*) et séances d’initiation (*tutorials*) organisés avant le colloque (propositions de 1 500 mots au plus).
 
-La date limite pour soumettre au Comité international de programmation les propositions de posters, de présentations courtes, de présentations longues et de tables rondes est le 1er novembre 2017, à 23 h 59 GMT-6 (heure de Mexico). Les participants seront informés de la sélection de leur proposition au plus tard le 16 février 2018.
+La date limite pour soumettre au comité international de programmation les propositions de posters, de présentations courtes, de présentations longues et de tables rondes est le 1er novembre 2017, à 23 h 59 GMT-6 (heure de Mexico). Les participants seront informés de la sélection de leur proposition au plus tard le 16 février 2018.
 
 La date limite pour les propositions d’ateliers et de séances d’initiation, y compris celles soutenues par un groupe d’intérêt spécial (SIG), est le 15 janvier 2018, à 23 h 59 GMT-6 (heure de Mexico) ; leur sélection sera annoncée au plus tard le 9 mars 2018.
 
 <https://www.conftool.pro/dh2018/>
 
-Pour soumettre des propositions, les personnes ayant déjà participé au colloque *Digital Humanities* ou au processus d’évaluation des présentations doivent utiliser le compte qu’elles possèdent, plutôt que d’en créer un nouveau. Si vous avez oublié votre identifiant ou votre mot de passe, veuillez contacter les co-présidents du Comité de programmation : Glen Worthey, gworthey [at] stanford [dot] edu, et Élika Ortega, e.ortegaguzman [at] northeastern [dot] edu.
+Pour soumettre des propositions, les personnes ayant déjà participé au colloque *Digital Humanities* ou au processus d’évaluation des présentations doivent utiliser le compte qu’elles possèdent, plutôt que d’en créer un nouveau. Si vous avez oublié votre identifiant ou votre mot de passe, veuillez contacter les co-présidents du comité de programmation : Glen Worthey, gworthey [at] stanford [dot] edu, et Élika Ortega, e.ortegaguzman [at] northeastern [dot] edu.
 
 Afin de rendre plus aisée la réalisation des actes du colloque, les auteurs des présentations sélectionnées auront à soumettre une version définitive de leur résumé au moyen de l’outil en ligne DHConvalidator. Disponible sur la plateforme ConfTool, cet outil crée une banque des résumés en TEI, qui sera exploitée par la suite.
 
@@ -56,7 +56,7 @@ De même, les participants sont vivement encouragés à prendre connaissance des
 
 ## II. TYPES DE PROPOSITIONS
 
-Les propositions peuvent être de cinq types différents : (1) posters ; (2) présentations courtes ; (3) présentations longues ; (4) tables rondes comportant plusieurs présentations ; (5) ateliers et séances d’initiation organisés avant le colloque. Les présentations courtes et les posters seront particulièrement bienvenus. Se fondant sur les résultats d’un processus d’évaluation par les pairs et afin d’élaborer un programme équilibré et varié, conformément à sa mission, le Comité de programmation se réserve le droit de proposer une sélection dans une catégorie autre que celle initialement suggérée. Le comité n’acceptera pas, en règle générale, plus de deux propositions d’un même auteur, qu’il apparaisse comme auteur principal ou comme co-auteur. Les langues des présentations et des posters peuvent être les suivantes : anglais, français, allemand, italien, espagnol et portugais.
+Les propositions peuvent être de cinq types différents : (1) posters ; (2) présentations courtes ; (3) présentations longues ; (4) tables rondes comportant plusieurs présentations ; (5) ateliers et séances d’initiation organisés avant le colloque. Les présentations courtes et les posters seront particulièrement bienvenus. Se fondant sur les résultats d’un processus d’évaluation par les pairs et afin d’élaborer un programme équilibré et varié, conformément à sa mission, le comité de programmation se réserve le droit de proposer une sélection dans une catégorie autre que celle initialement suggérée. Le comité n’acceptera pas, en règle générale, plus de deux propositions d’un même auteur, qu’il apparaisse comme auteur principal ou comme co-auteur. Les langues des présentations et des posters peuvent être les suivantes : anglais, français, allemand, italien, espagnol et portugais.
 
 Toutes les propositions devront se référer d’une façon pertinente à des travaux antérieurement publiés sur le sujet. Les références ne sont pas à prendre en compte dans le nombre de mots. En outre, les propositions qui se concentrent sur un outil particulier ou une ressource numérique particulière doivent mentionner à la fois des approches traditionnelles et des approches informatiques du problème dont elles traitent.
 
@@ -78,7 +78,7 @@ Les propositions portant sur le développement de nouvelles méthodologies infor
 
 Les tables rondes (présentation générale de 500 mots au plus, accompagnée d’un résumé de 500 mots au plus pour chaque intervention) doivent se concentrer sur un thème unique et être conçues comme des séances de 90 minutes rassemblant de quatre à six intervenants.
 
-Puisque le colloque constitue une importante occasion d’intéresser à des domaines spécifiques de nouveaux chercheurs issus d’horizons disciplinaires variés, il est recommandé aux responsables des propositions de s’assurer que la composition de la table ronde reflète la composition du champ ou du sujet de recherche considéré, ainsi que l’engagement exprès d’ADHO en faveur de la diversité, ou bien qu’elle aborde explicitement les problèmes qui se posent dans le domaine concerné. Dans le cas où le réseau propre du responsable serait trop restreint, le Comité de programmation pourra lui suggérer des contacts. Si vous avez besoin de conseils, veuillez contacter Glen Worthey, gworthey [at] stanford [dot] edu, ou Élika Ortega, e.ortegaguzman [at] northeastern [dot] edu.
+Puisque le colloque constitue une importante occasion d’intéresser à des domaines spécifiques de nouveaux chercheurs issus d’horizons disciplinaires variés, il est recommandé aux responsables des propositions de s’assurer que la composition de la table ronde reflète la composition du champ ou du sujet de recherche considéré, ainsi que l’engagement exprès d’ADHO en faveur de la diversité, ou bien qu’elle aborde explicitement les problèmes qui se posent dans le domaine concerné. Dans le cas où le réseau propre du responsable serait trop restreint, le comité de programmation pourra lui suggérer des contacts. Si vous avez besoin de conseils, veuillez contacter Glen Worthey, gworthey [at] stanford [dot] edu, ou Élika Ortega, e.ortegaguzman [at] northeastern [dot] edu.
 
 #### Ateliers et séances d’initiation organisés avant le colloque
 
@@ -99,13 +99,13 @@ Quant aux propositions d’ateliers, elles devront indiquer :
 
 * la durée et le format prévus (une demi-journée au moins, une journée et demie au plus) ;
 * le budget prévisionnel (les ateliers sont tenus de pourvoir eux-mêmes à leur financement) ;
-* si l’atelier doit faire l’objet d’un appel à participation indépendant, une date limite de soumission des candidatures, la date de sélection des propositions et la liste des personnes ayant accepté de faire partie du Comité de programmation de l’atelier.
+* si l’atelier doit faire l’objet d’un appel à participation indépendant, une date limite de soumission des candidatures, la date de sélection des propositions et la liste des personnes ayant accepté de faire partie du comité de programmation de l’atelier.
 
-Comme dans le cas des propositions de tables rondes, il est recommandé aux responsables des propositions de s’assurer que la composition du *panel* d’intervenants reflète la composition du champ ou du sujet de recherche considéré, ainsi que l’engagement exprès d’ADHO en faveur de la diversité, ou bien qu’il aborde explicitement les problèmes qui se posent dans le domaine concerné. Dans le cas où le réseau propre du responsable serait trop restreint, le Comité de programmation pourra lui suggérer des contacts. Si vous avez besoin de conseils, veuillez contacter Glen Worthey, gworthey [at] stanford [dot] edu, ou Élika Ortega, e.ortegaguzman [at] northeastern [dot] edu.
+Comme dans le cas des propositions de tables rondes, il est recommandé aux responsables des propositions de s’assurer que la composition du *panel* d’intervenants reflète la composition du champ ou du sujet de recherche considéré, ainsi que l’engagement exprès d’ADHO en faveur de la diversité, ou bien qu’il aborde explicitement les problèmes qui se posent dans le domaine concerné. Dans le cas où le réseau propre du responsable serait trop restreint, le comité de programmation pourra lui suggérer des contacts. Si vous avez besoin de conseils, veuillez contacter Glen Worthey, gworthey [at] stanford [dot] edu, ou Élika Ortega, e.ortegaguzman [at] northeastern [dot] edu.
 
 #### Ateliers soutenus par un groupe d’intérêt spécial (SIG) d’ADHO
 
-Les ateliers soutenus par un SIG et centrés sur un sujet en rapport avec ce groupe doivent respecter les mêmes consignes que les autres ateliers et seront soumis à une évaluation par les pairs, mais ils feront l’objet d’une attention particulière de la part du Comité de programmation.
+Les ateliers soutenus par un SIG et centrés sur un sujet en rapport avec ce groupe doivent respecter les mêmes consignes que les autres ateliers et seront soumis à une évaluation par les pairs, mais ils feront l’objet d’une attention particulière de la part du comité de programmation.
 
 ## III. CODE DE CONDUITE DES COLLOQUES D’ADHO
 
@@ -121,7 +121,7 @@ L’Alliance of Digital Humanities Organizations proposera un certain nombre de 
 
 ## VI. International Travel Accommodation
 
-Pour DH 2018, le Comité de programmation ouvrira une catégorie à part de présentations en différé, à destination de participants dont la proposition a été acceptée mais qui sont dans l’impossibilité de se rendre à Mexico. Les conditions de soumission demeurent les mêmes que pour toutes les autres présentations ; les détails pratiques de ces présentations en différé seront réglés à l’approche du colloque avec les participants n’étant pas en mesure de voyager. On demandera aux intervenants de réaliser à l’avance une vidéo de la présentation sélectionnée, de 10 minutes au plus, et de la télécharger dans un emplacement indiqué pour que les organisateurs du colloque puissent la publier.
+Pour DH 2018, le comité de programmation ouvrira une catégorie à part de présentations en différé, à destination de participants dont la proposition a été acceptée mais qui sont dans l’impossibilité de se rendre à Mexico. Les conditions de soumission demeurent les mêmes que pour toutes les autres présentations ; les détails pratiques de ces présentations en différé seront réglés à l’approche du colloque avec les participants n’étant pas en mesure de voyager. On demandera aux intervenants de réaliser à l’avance une vidéo de la présentation sélectionnée, de 10 minutes au plus, et de la télécharger dans un emplacement indiqué pour que les organisateurs du colloque puissent la publier.
 
 ## VII. COMITÉ INTERNATIONAL DE PROGRAMMATION
 
@@ -146,4 +146,4 @@ JADH representative          Maki Miyake
 
 ---
 
-Version française (2017-09-24) : Aurélien Berra et Emmanuel Château-Dutier, pour [Humanistica](http://humanisti.ca) 
+Version française (2017-09-29) d’Aurélien Berra, relue par Emmanuel Château-Dutier, pour [Humanistica](http://humanisti.ca)
