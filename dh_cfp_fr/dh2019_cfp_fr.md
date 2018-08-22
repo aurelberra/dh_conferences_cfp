@@ -48,7 +48,7 @@ Les participants sont encouragés à se familiariser avec le « Global Outlook::
 
 De même, les participants sont vivement encouragés à prendre connaissance des recommandations actuelles en matière d’accessibilité et d’usage de matériaux multimédias. Veuillez consulter les « Web Initiative Guidelines on Presentation Accessibility » du World Wide Web Consortium : [https://www.w3.org/WAI/training/accessible](https://www.w3.org/WAI/training/accessible).
 
-## **II: TYPES OF PROPOSALS**
+## **II. TYPES DE PROPOSITIONS**
 
 Les propositions peuvent être de cinq types différents : (1) posters ; (2) présentations courtes ; (3) présentations longues ; (4) tables rondes comportant plusieurs présentations ; (5) ateliers et séances d’initiation organisés avant le colloque. Les présentations courtes et les posters seront particulièrement bienvenus. Se fondant sur les résultats d’un processus d’évaluation par les pairs et afin d’élaborer un programme équilibré et varié, conformément à sa mission, le comité de programmation se réserve le droit de proposer une sélection dans une catégorie autre que celle initialement suggérée. Le comité n’acceptera pas, en règle générale, plus de deux propositions d’un même auteur, qu’il apparaisse comme auteur principal ou comme co-auteur. Les langues des présentations et des posters peuvent être les suivantes : allemand, anglais, espagnol, français, italien et portugais.
 
@@ -101,11 +101,11 @@ N.B. Les ateliers soutenus par un groupe d’intérêt spécial (SIG) d’ADHO f
 
 ## **III. CODE DE CONDUITE DES COLLOQUES D’ADHO**
 
-L’Alliance of Digital Humanities Organizations (ADHO) entend créer dans son colloque un environnement de travail garantissant la sécurité, le respect et la collégialité, pour le bien de l’ensemble des participants et pour contribuer à l’avancement des champs de recherche soutenus par ses organisations constituantes. Le code de conduite du colloque Digital Humanities d’ADHO est disponible en ligne : [http://adho.org/administration/conference-coordinating-program-committee/adho-conference-code-conduct](http://adho.org/administration/conference-coordinating-program-committee/adho-conference-code-conduct). Toute personne soumettant une proposition pour DH 2019 est tenue de le respecter et de le faire respecter.
+L’Alliance of Digital Humanities Organizations (ADHO) entend créer dans son colloque un environnement de travail garantissant la sécurité, le respect et la collégialité, pour le bien de l’ensemble des participants et pour contribuer à l’avancement des champs de recherche soutenus par ses organisations constituantes. Le code de conduite du colloque Digital Humanities d’ADHO est disponible en ligne : [http://adho.org/administration/conference-coordinating-program-committee/adho-conference-code-conduct](http://adho.org/administration/conference-coordinating-program-committee/adho-conference-code-conduct). Toute personne soumettant une proposition pour DH2019 est tenue de le respecter et de le faire respecter.
 
 ## **IV. LIEU**
 
-DH 2019 aura lieu au TivoliVredenburg, complexe de salles de concert situé dans le centre de la ville d’Utrecht, aux Pays-Bas, et est accueilli par la Faculté des sciences humaines de l’université d’Utrecht. Le comité d’organisation local est co-présidé par Franciska de Jong et Joris van Eijnatten.
+DH2019 aura lieu au TivoliVredenburg, complexe de salles de concert situé dans le centre de la ville d’Utrecht, aux Pays-Bas, et est accueilli par la Faculté des sciences humaines de l’université d’Utrecht. Le comité d’organisation local est co-présidé par Franciska de Jong et Joris van Eijnatten.
 
 ## **V. BOURSES À DESTINATION DES JEUNES CHERCHEURS**
 
@@ -148,3 +148,7 @@ L’Alliance of Digital Humanities Organizations proposera un certain nombre de 
 **Représentant de JADH :** Akihiro Kawase
 
 **Représentant de JADH :** Taizo Yamada
+
+---
+
+Version française (2018-08-22) d’Aurélien Berra et Vincent Razanajao, pour [Humanistica](http://humanisti.ca)
