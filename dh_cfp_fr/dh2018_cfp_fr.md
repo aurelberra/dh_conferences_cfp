@@ -119,7 +119,7 @@ DH 2018 aura lieu au [Maria Isabel Sheraton Hotel](http://www.sheratonmexicocity
 
 L’Alliance of Digital Humanities Organizations proposera un certain nombre de bourses destinées à des chercheurs en début de carrière qui présenteront leurs travaux durant le colloque. Les modalités de candidature seront publiées ultérieurement sur le site d’ADHO : <http://www.adho.org>.
 
-## VI. International Travel Accommodation
+## VI. INTERNATIONAL TRAVEL ACCOMMODATION
 
 Pour DH 2018, le comité de programmation ouvrira une catégorie à part de présentations en différé, à destination de participants dont la proposition a été acceptée mais qui sont dans l’impossibilité de se rendre à Mexico. Les conditions de soumission demeurent les mêmes que pour toutes les autres présentations ; les détails pratiques de ces présentations en différé seront réglés à l’approche du colloque avec les participants n’étant pas en mesure de voyager. On demandera aux intervenants de réaliser à l’avance une vidéo de la présentation sélectionnée, de 10 minutes au plus, et de la télécharger dans un emplacement indiqué pour que les organisateurs du colloque puissent la publier.
 
