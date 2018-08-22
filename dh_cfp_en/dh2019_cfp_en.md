@@ -17,7 +17,7 @@ Proposals related to these themes are particularly welcome, but the Conference w
 - Cultural heritage, digital cultural studies and research undertaken by digital cultural institutions
 - Social, cultural, and political aspects of Digital Humanities including digital feminisms, digital indigenous studies, digital cultural and ethnic studies, digital black studies, digital queer studies, digital geopolitical studies, multilingualism and multiculturalism in DH, eco-criticism and environmental humanities as they intersect with the Digital Humanities;
 - Emerging technologies such as physical computing, single-board computers, minimal computing, wearable devices, and haptic technologies applied to humanities research;
-- Institutional aspects of DH, interdisciplinary aspects of scholarship, open science,public humanities, societal engagement and impact of  DH;
+- Institutional aspects of DH, interdisciplinary aspects of scholarship, open science,public humanities, societal engagement and impact of DH;
 - Digital Humanities pedagogy and academic curricula;
 - Digital Research infrastructures, digital libraries and virtual research environment, critical infrastructure studies, media archaeology, etc.;
 - Any other theme pertaining to the Digital H
@@ -32,13 +32,13 @@ The primary language of the conference will be English, but we warmly invite pro
 - Multiple-paper panels (500-word abstracts + 500-word overview)
 - Pre-conference workshops and tutorials (proposal maximum 1 500 words)
 
-The deadline for submitting poster, short paper, long paper, and multiple-paper panel proposals to the international Program Committee is 11:59pm GMT 27 November 2018. Presenters will be notified of acceptance by March 3 2019.
+The deadline for submitting poster, short paper, long paper, and multiple-paper panel proposals to the international Program Committee is 11:59pm GMT 27 November 2018. Presenters will be notified of acceptance by 3 March 2019.
 
-The deadline for submitting workshops and tutorials, , is 11:59pm GMT, 10 January 2019, with notice of acceptance by 3 March 2019.
+The deadline for submitting workshops and tutorials is 11:59pm GMT, 10 January 2019, with notice of acceptance by 3 March 2019.
 
 Proposal must be submitted via https://www.conftool.pro/dh2019/.
 
-**DH2019 will use double-blind peer review. To facilitate this process, please remove all identifying information from your proposal submission including author name(s) and affiliation(s), project URLs, etc..**
+**DH2019 will use double-blind peer review. To facilitate this process, please remove all identifying information from your proposal submission including author name(s) and affiliation(s), project URLs, etc.**
 
 When submitting proposals, previous Digital Humanities conference participants and reviewers should use their existing ConfTool account rather than setting up new ones. If you have forgotten your username or password, please contact Program Committee Co-chairs Fabio Ciotti: fabio [dot] ciotti [at] UNIROMA2 [dot] IT or Elena Pierazzo: elena [dot] pierazzo [at] univ-grenoble-alpes [dot] fr.
 
@@ -55,7 +55,7 @@ Proposals may be of five types: (1) poster presentations; (2) short paper presen
 All proposals should include relevant citations to sources in the appropriate literature. Citations are not to be included in the word count. Additionally, proposals that concentrate on a particular tool or digital resource should cite non-digital as well as computer-based approaches to the problem.
 
 ### 1. **Poster Presentations**
-Poster proposals (abstract maximum: 750 words) may describe work on any specific topics or methods or present projects and software tools in any stage of development. Poster presentations are intended to be interactive with the opportunity to exchange ideas one-on-one with attendees.  Posters are in no way considered lesser forms of presentation at the DH conference and are subject to the same strict peer review as other presentation types.Submissions in this category are strongly encouraged.
+Poster proposals (abstract maximum: 750 words) may describe work on any specific topics or methods or present projects and software tools in any stage of development. Poster presentations are intended to be interactive with the opportunity to exchange ideas one-on-one with attendees. Posters are in no way considered lesser forms of presentation at the DH conference and are subject to the same strict peer review as other presentation types.Submissions in this category are strongly encouraged.
 
 ### 2. **Short Papers**
 Short paper proposals (abstract maximum: 1000 words) are intended to be dynamic 10-minute presentations appropriate for reporting on experiments or works in progress or for describing tools or software in development. Short-paper sessions seek to open dialogues among scholars working on related topics. Short papers are in no way considered lesser forms of presentation at the DH conference and are subject to the same strict peer review as other presentation types. Submissions in this category are strongly encouraged.
@@ -88,7 +88,7 @@ And **workshop** proposals must include:
 - Any special requirements for attendees, including software installation (the conference will handle traditional technological support, but workshop organizers are expected to manage specific needs such as access to software, servers, etc.).
 - If the workshop is to have its own call for participation, a deadline and date for notification of acceptances, and a list of individuals who have agreed to be part of the workshop&#39;s Program Committee.
 
-As with Multiple Paper Panel proposals, those submitting proposals for pre-conference workshops are advised to ensure that the constitution of the workshop reflects the constitution of the field and/or research topic that is being addressed and ADHO&#39;s expressed commitment to diversity, or explicitly address problems in those areas.  In case the proposer&#39;s own network is too limited, the Program Committee can advise them before submission on whom to contact to broaden the panel. Please contact the PC chairs Fabio Ciotti fabio [dot] ciotti [at] UNIROMA2 [dot] IT or Elena Pierazzo elena [dot] pierazzo [at] univ-grenoble-alpes [dot] fr if you need advice.
+As with Multiple Paper Panel proposals, those submitting proposals for pre-conference workshops are advised to ensure that the constitution of the workshop reflects the constitution of the field and/or research topic that is being addressed and ADHO&#39;s expressed commitment to diversity, or explicitly address problems in those areas. In case the proposer&#39;s own network is too limited, the Program Committee can advise them before submission on whom to contact to broaden the panel. Please contact the PC chairs Fabio Ciotti fabio [dot] ciotti [at] UNIROMA2 [dot] IT or Elena Pierazzo elena [dot] pierazzo [at] univ-grenoble-alpes [dot] fr if you need advice.
 
 N.B. Pre-conference workshops endorsed by ADHO Special Interest Groups (SIGs) will be considered via separate calls put out by SIG conveners and will not be evaluated in the general academic program review process.
 
@@ -106,33 +106,33 @@ The Alliance of Digital Humanities Organizations will offer a limited number of 
 
 ## VI: INTERNATIONAL PROGRAM COMMITTEE
 
-**Co-Chair:**  Elena Pierazzo
+**Co-chair:** Elena Pierazzo
 
-**Co-Chair:**  Fabio Ciotti
+**Co-chair:** Fabio Ciotti
 
-**Co-Vice Chair:**  Laura Estill
+**Co-vice chair:** Laura Estill
 
-**Co-Vice Chair:**  Jennifer Guiliano
+**Co-vice chair:** Jennifer Guiliano
 
-**aaDH representative:**  Paul Arthur
+**aaDH representative:** Paul Arthur
 
-**aaDH representative:**  Simon Musgrave
+**aaDH representative:** Simon Musgrave
 
-**ACH representative:**  Meghan Ferriter
+**ACH representative:** Meghan Ferriter
 
-**ACH representative:**  Thomas Padilla
+**ACH representative:** Thomas Padilla
 
-**centerNet representative:**  Francesca Benatti
+**centerNet representative:** Francesca Benatti
 
-**centerNet representative:**  Nirmala Menon
+**centerNet representative:** Nirmala Menon
 
-**CSDH/SCHN representative:**  Maureen Engel
+**CSDH/SCHN representative:** Maureen Engel
 
-**CSDH/SCHN representative:**  Michael Ullyot
+**CSDH/SCHN representative:** Michael Ullyot
 
-**EADH representative:**  Claire Clivaz
+**EADH representative:** Claire Clivaz
 
-**EADH representative:**  Christian-Emil Ore
+**EADH representative:** Christian-Emil Ore
 
 **Humanistica representative:** Clarisse Bardiot
 
