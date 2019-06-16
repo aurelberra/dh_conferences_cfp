@@ -15,4 +15,4 @@ EN <https://dh2017.adho.org/program/cfp/> | FR <https://dh2017.adho.org/program/
 EN <https://dh2018.adho.org/en/cfp/> | FR <https://dh2018.adho.org/406-2/>
 
 ## DH2019
-EN <http://dh2019.adho.org/> | FR <to be updated!>
+EN <https://dh2019.adho.org/call-for-papers/cfp-english/> | FR <https://dh2019.adho.org/call-for-papers/cfp-french/>
