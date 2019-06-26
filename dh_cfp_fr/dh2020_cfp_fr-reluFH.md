@@ -14,7 +14,7 @@ Excursions d’ADHO et ateliers organisés après le colloque : 25 juillet 2020
 
 Le thème du colloque de 2020 est « Carrefours/Intersections » : là où les routes ou les rues se rencontrent. 
 
-Nous vous encourageons tout particulièrement à soumettre des contributions en rapport avec les sujets et sous-disciplines qui nous intéressent au premier plan : études des Premières Nations, études des *Native Americans*, études indigènes ; humanités numériques publiques ; mouvement des données ouvertes (*open data*). Seront également bienvenues toutes les personnes qui considèrent que leur travail s’inscrit dans l’ensemble vaste et varié de disciplines, de méthodes et de pédagogies qu’embrassent les humanités numériques. [link first phrase to thematic explanation again]
+Nous vous encourageons tout particulièrement à proposer des contributions en rapport avec les sujets et sous-disciplines qui nous intéressent au premier plan : études des Premières Nations, études des *Native Americans*, études indigènes ; humanités numériques publiques ; mouvement des données ouvertes (*open data*). Seront également bienvenues toutes les personnes qui considèrent que leur travail s’inscrit dans l’ensemble vaste et varié de disciplines, de méthodes et de pédagogies qu’embrassent les humanités numériques. [link first phrase to thematic explanation again]
 
 Les présentations peuvent prendre les formes suivantes :
 
@@ -30,7 +30,7 @@ Toutes les propositions devront se référer d’une façon pertinente à des tr
 
 Conformément au thème du colloque, DH2020 recourra à une procédure d’évaluation par les pairs ouverte (*open peer review*), qui implique la connaissance réciproque de leur identité par les personnes qui déposent les propositions et celles qui les évaluent. Les évaluations ne seront connues que de la personne qui dépose la proposition, des personnes qui l’évaluent et des membres du comité de programmation.
 
-Les propositions seront évaluées sur les critères suivants :
+Les propositions seront évaluées selon les critères suivants :
 
 - organisation et clarté d’ensemble de la proposition (20%) ;
 - discussion explicite des travaux savants pertinents, comprenant des références et des arguments démontrant une connaissance de l’état de l’art dans les champs concernés (30%) ;
@@ -38,7 +38,7 @@ Les propositions seront évaluées sur les critères suivants :
 - clarté du cadre théorique, méthodologique ou pédagogique et caractère explicite des objectifs affichés (20%) ;
 - pertinence, importance et valeur de la contribution pour les humanités numériques en général, d’un point de vue théorique, méthodologique ou pratique (20%).
 
-L’Alliance of Digital Humanities Organizations (ADHO) entend créer dans son colloque un environnement de travail garantissant la sécurité, le respect et la collégialité, pour le bien de l’ensemble des participants et pour contribuer à l’avancement des champs de recherche soutenus par ses organisations constituantes. Toute personne soumettant une proposition ou participant au colloque est tenue de respecter le code de conduite [link to code of conduct]. Les évaluateurs et évaluatrices auront à suivre les consignes pour l’évaluation [link to guidelines for reviewers].
+L’Alliance of Digital Humanities Organizations (ADHO) entend créer dans son colloque un environnement de travail garantissant la sécurité, le respect et la collégialité, pour le bien de l’ensemble des participantes et participants et pour contribuer à l’avancement des champs de recherche soutenus par ses organisations constituantes. Toute personne soumettant une proposition ou participant au colloque est tenue de respecter le code de conduite [link to code of conduct]. Les évaluateurs et évaluatrices auront à suivre les consignes pour l’évaluation [link to guidelines for reviewers].
 
 BOURSES À DESTINATION DES JEUNES CHERCHEURS ET CHERCHEUSES
 L’Alliance of Digital Humanities Organizations proposera un certain nombre de bourses destinées à des chercheurs et chercheuses en début de carrière qui présenteront leurs travaux durant le colloque. Les modalités de candidature seront publiées sur le site d’ADHO au début de l’année 2020 : <http://www.adho.org>. Ces bourses sont exclusivement attribuées pour des posters et des présentations.
