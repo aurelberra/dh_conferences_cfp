@@ -47,4 +47,4 @@ Toute question relative à cet appel doit être adressée aux présidentes de la
 
 ---
 
-Version française (2019-06-16) d’Aurélien Berra, pour [Humanistica](http://humanisti.ca)
+Version française (2019-06-16) d’Aurélien Berra, relue par Franziska Heimburger, pour [Humanistica](http://humanisti.ca)
