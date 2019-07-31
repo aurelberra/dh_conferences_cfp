@@ -4,7 +4,7 @@
 
 The Alliance of Digital Humanities Organizations (ADHO) invites submission of proposals for its annual conference, July 20-25, 2020 at Carleton University and the University of Ottawa in Ottawa, Canada.
 
-CFP: Algonquin, English, French, Spanish, German, Italian
+Submissions will be accepted in Algonquin, English, French, Spanish, German, Italian.
 Submit a Proposal: [link to conftool]
 Deadline for Submissions: October 15, 2019 11:59 PM PST
 Notification of Acceptances: March 1, 2020 
