@@ -2,7 +2,7 @@
 
 L’Alliance of Digital Humanities Organizations (ADHO) lance un appel à propositions pour son colloque annuel, qui se tiendra du 20 au 25 juillet 2020, à l’université Carleton et à l’université d’Ottawa, au Canada.
 
-Appels en algonquin, anglais, français, espagnol, allemand et italien
+Les propositions seront acceptées en algonquin, anglais, français, espagnol, allemand et italien.
 Soumettre une proposition : [link to conftool]
 Date limite pour les propositions : 15 octobre 2019, 23:59 heure normale du Pacifique [how are timezones managed?]
 Annonce des propositions sélectionnées : 1er mars 2020
